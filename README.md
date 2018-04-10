@@ -1,3 +1,9 @@
+
+### This code is associated with the paper from Fiederling et al., "Ephrin-A/EphA specific co-adaptation as a novel mechanism in topographic axon guidance". eLife, 2017. http://dx.doi.org/10.7554/eLife.25533
+
+
+
+
 # RTP_Co-adapt_Model
 
 Source Code File 1: RTP_Coadapt_ModelV1p2.m
